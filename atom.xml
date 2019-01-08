@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HackDApp</title>
+  
+  <subtitle>专注DApp教程 | 专注思维成长 | 专注应用技巧</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.hackdapp.com/"/>
+  <updated>2019-01-07T16:33:32.195Z</updated>
+  <id>http://blog.hackdapp.com/</id>
+  
+  <author>
+    <name>zhangliang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019MetaLife</title>
+    <link href="http://blog.hackdapp.com/2019/01/08/2019MetaLife/"/>
+    <id>http://blog.hackdapp.com/2019/01/08/2019MetaLife/</id>
+    <published>2019-01-07T16:28:42.000Z</published>
+    <updated>2019-01-07T16:33:32.195Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="MyToList"><a href="#MyToList" class="headerlink" title="MyToList"></a>MyToList</h2><ul><li>尝试每天500字，锻炼文字组织能力</li><li>做一款自己的小众产品，用户达到100人</li><li>尝试录制短视频</li><li>出版一本书籍</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;MyToList&quot;&gt;&lt;a href=&quot;#MyToList&quot; class=&quot;headerlink&quot; title=&quot;MyToList&quot;&gt;&lt;/a&gt;MyToList&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;尝试每天500字，锻炼文字组织能力&lt;/li&gt;
+&lt;li&gt;做一款自己的小众产品，用户
+      
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="http://blog.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+  </entry>
+  
+</feed>
