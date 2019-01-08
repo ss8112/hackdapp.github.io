@@ -5,9 +5,9 @@
   <subtitle>专注DApp教程 | 专注思维成长 | 专注应用技巧</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.hackdapp.com/"/>
+  <link href="https://hackdapp.com/"/>
   <updated>2019-01-07T16:33:32.195Z</updated>
-  <id>http://blog.hackdapp.com/</id>
+  <id>https://hackdapp.com/</id>
   
   <author>
     <name>zhangliang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>2019MetaLife</title>
-    <link href="http://blog.hackdapp.com/2019/01/08/2019MetaLife/"/>
-    <id>http://blog.hackdapp.com/2019/01/08/2019MetaLife/</id>
+    <link href="https://hackdapp.com/2019/01/08/2019MetaLife/"/>
+    <id>https://hackdapp.com/2019/01/08/2019MetaLife/</id>
     <published>2019-01-07T16:28:42.000Z</published>
     <updated>2019-01-07T16:33:32.195Z</updated>
     
@@ -36,7 +36,7 @@
     
     </summary>
     
-      <category term="周报(2019)" scheme="http://blog.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+      <category term="周报(2019)" scheme="https://hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
     
     
   </entry>
