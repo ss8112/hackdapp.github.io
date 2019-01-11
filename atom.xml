@@ -5,9 +5,9 @@
   <subtitle>专注DApp教程 | 专注思维成长 | 专注应用技巧</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://hackdapp.com/"/>
+  <link href="https://www.hackdapp.com/"/>
   <updated>2019-01-10T13:38:17.792Z</updated>
-  <id>https://hackdapp.com/</id>
+  <id>https://www.hackdapp.com/</id>
   
   <author>
     <name>zhangliang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>HackDAp学习周报-01W</title>
-    <link href="https://hackdapp.com/archives/weekly01.html"/>
-    <id>https://hackdapp.com/archives/weekly01.html</id>
+    <link href="https://www.hackdapp.com/archives/weekly01.html"/>
+    <id>https://www.hackdapp.com/archives/weekly01.html</id>
     <published>2019-01-09T12:17:23.000Z</published>
     <updated>2019-01-10T13:38:17.792Z</updated>
     
@@ -27,17 +27,17 @@
     
     </summary>
     
-      <category term="周报(2019)" scheme="https://hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
     
     
-      <category term="EOSDApp教程" scheme="https://hackdapp.com/tags/EOSDApp%E6%95%99%E7%A8%8B/"/>
+      <category term="EOSDApp教程" scheme="https://www.hackdapp.com/tags/EOSDApp%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>快速搭建EOS高效开发环境(Docker/VSCode)</title>
-    <link href="https://hackdapp.com/archives/how%20to%20config%20the%20dev%20environment%20of%20eosdapp.html"/>
-    <id>https://hackdapp.com/archives/how to config the dev environment of eosdapp.html</id>
+    <link href="https://www.hackdapp.com/archives/how%20to%20config%20the%20dev%20environment%20of%20eosdapp.html"/>
+    <id>https://www.hackdapp.com/archives/how to config the dev environment of eosdapp.html</id>
     <published>2019-01-09T12:17:23.000Z</published>
     <updated>2019-01-10T23:56:48.935Z</updated>
     
@@ -45,17 +45,17 @@
     
     </summary>
     
-      <category term="周报(2019)" scheme="https://hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
     
     
-      <category term="EOSDApp教程" scheme="https://hackdapp.com/tags/EOSDApp%E6%95%99%E7%A8%8B/"/>
+      <category term="EOSDApp教程" scheme="https://www.hackdapp.com/tags/EOSDApp%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>2019MetaLife</title>
-    <link href="https://hackdapp.com/archives/2019metalife.html"/>
-    <id>https://hackdapp.com/archives/2019metalife.html</id>
+    <link href="https://www.hackdapp.com/archives/2019metalife.html"/>
+    <id>https://www.hackdapp.com/archives/2019metalife.html</id>
     <published>2019-01-07T16:28:42.000Z</published>
     <updated>2019-01-10T23:57:11.662Z</updated>
     
@@ -72,7 +72,7 @@
     
     </summary>
     
-      <category term="周报(2019)" scheme="https://hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
     
     
   </entry>
