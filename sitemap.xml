@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hackdapp.com/things/index.html</loc>
+    
+    <lastmod>2019-01-26T09:10:38.692Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hackdapp.com/archives/think_habit.html</loc>
     
     <lastmod>2019-01-21T01:41:35.191Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>https://www.hackdapp.com/wiki/index.html</loc>
     
     <lastmod>2019-01-08T01:05:10.660Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/things/index.html</loc>
-    
-    <lastmod>2019-01-08T01:05:10.659Z</lastmod>
     
   </url>
   
