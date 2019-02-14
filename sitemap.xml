@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hackdapp.com/archives/rebuildbrain_habit.html</loc>
+    
+    <lastmod>2019-02-14T08:09:21.733Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/archives/think_habit.html</loc>
+    
+    <lastmod>2019-02-14T07:48:43.866Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/wiki/index.html</loc>
+    
+    <lastmod>2019-02-14T02:22:57.649Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/tools/index.html</loc>
+    
+    <lastmod>2019-02-14T02:22:14.103Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/things/index.html</loc>
+    
+    <lastmod>2019-02-14T02:22:08.660Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/history/index.html</loc>
+    
+    <lastmod>2019-02-14T02:22:04.311Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hackdapp.com/edusmart/index.html</loc>
     
-    <lastmod>2019-01-28T11:28:28.062Z</lastmod>
+    <lastmod>2019-02-14T02:21:53.277Z</lastmod>
     
   </url>
   
@@ -12,13 +54,6 @@
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_basic.html</loc>
     
     <lastmod>2019-01-28T11:13:05.274Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/archives/think_habit.html</loc>
-    
-    <lastmod>2019-01-28T10:57:34.159Z</lastmod>
     
   </url>
   
@@ -33,13 +68,6 @@
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_intro.html</loc>
     
     <lastmod>2019-01-28T10:56:43.903Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/things/index.html</loc>
-    
-    <lastmod>2019-01-26T09:10:38.692Z</lastmod>
     
   </url>
   
@@ -75,27 +103,6 @@
     <loc>https://www.hackdapp.com/weekly/index.html</loc>
     
     <lastmod>2019-01-11T00:00:24.235Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/wiki/index.html</loc>
-    
-    <lastmod>2019-01-08T01:05:10.660Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/tools/index.html</loc>
-    
-    <lastmod>2019-01-08T01:05:10.659Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/history/index.html</loc>
-    
-    <lastmod>2019-01-08T01:05:10.658Z</lastmod>
     
   </url>
   
