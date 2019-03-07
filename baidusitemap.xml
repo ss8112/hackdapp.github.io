@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.hackdapp.com/archives/eosdev_contract_abi.html</loc>
+    <lastmod>2019-03-07</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly08.html</loc>
+    <lastmod>2019-02-21</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/weekly/index.html</loc>
+    <lastmod>2019-02-21</lastmod>
+  </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_basic.html</loc>
     <lastmod>2019-02-21</lastmod>
   </url>  <url>
@@ -18,8 +27,5 @@
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/2019metalife.html</loc>
     <lastmod>2019-01-12</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/weekly/index.html</loc>
-    <lastmod>2019-01-11</lastmod>
   </url>
 </urlset>

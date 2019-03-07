@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hackdapp.com/archives/eosdev_contract_abi.html</loc>
+    
+    <lastmod>2019-03-07T11:37:07.445Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/tools/index.html</loc>
+    
+    <lastmod>2019-02-21T09:48:25.651Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/archives/weekly08.html</loc>
+    
+    <lastmod>2019-02-21T09:14:18.120Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/weekly/index.html</loc>
+    
+    <lastmod>2019-02-21T09:13:33.622Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_basic.html</loc>
     
     <lastmod>2019-02-21T07:40:16.455Z</lastmod>
@@ -33,13 +61,6 @@
     <loc>https://www.hackdapp.com/wiki/index.html</loc>
     
     <lastmod>2019-02-14T02:22:57.649Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/tools/index.html</loc>
-    
-    <lastmod>2019-02-14T02:22:14.103Z</lastmod>
     
   </url>
   
@@ -96,13 +117,6 @@
     <loc>https://www.hackdapp.com/about/index.html</loc>
     
     <lastmod>2019-01-11T00:03:41.737Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/weekly/index.html</loc>
-    
-    <lastmod>2019-01-11T00:00:24.235Z</lastmod>
     
   </url>
   
