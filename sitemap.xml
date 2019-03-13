@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.hackdapp.com/archives/eosdev_contract_deploy.html</loc>
+    <loc>https://www.hackdapp.com/archives/eosdev_deploycontract_eosjs.html</loc>
     
-    <lastmod>2019-03-12T23:45:03.384Z</lastmod>
+    <lastmod>2019-03-13T09:37:13.501Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/archives/eosdev_datastorage_historyaction.html</loc>
+    
+    <lastmod>2019-03-13T09:34:36.450Z</lastmod>
     
   </url>
   
