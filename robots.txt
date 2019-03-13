@@ -1,12 +1,12 @@
 User-agent: *
-Allow: /
+Allow: /*.html$
 Allow: /archives/*.html$
-Allow: /categories/
-Allow: /tags/
-Allow: /edudapp/
-Allow: /edusmart/
-Allow: /things/
-Allow: /about/
+Allow: /weekly/*.html$
+Allow: /things/*.html$
+Allow: /wiki/*.html$
+Allow: /categories/*/*.html$
+Allow: /about/*.html$
+
 Disallow: /vendors/
 Disallow: /fonts/
 Disallow: /vendors/
