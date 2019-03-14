@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.hackdapp.com/weekly/index.html</loc>
+    <lastmod>2019-03-14</lastmod>
+  </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_datastorage_historyaction.html</loc>
-    <lastmod>2019-03-13</lastmod>
+    <lastmod>2019-03-14</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_deploycontract_eosjs.html</loc>
-    <lastmod>2019-03-13</lastmod>
+    <lastmod>2019-03-14</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_contract_abi.html</loc>
-    <lastmod>2019-03-07</lastmod>
+    <lastmod>2019-03-14</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/tron_boilerplate.html</loc>
+    <lastmod>2019-03-14</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/weekly08.html</loc>
-    <lastmod>2019-02-21</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/weekly/index.html</loc>
     <lastmod>2019-02-21</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_basic.html</loc>
@@ -24,9 +27,6 @@
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/think_habit.html</loc>
     <lastmod>2019-02-14</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/tron_boilerplate.html</loc>
-    <lastmod>2019-01-28</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_intro.html</loc>
     <lastmod>2019-01-28</lastmod>

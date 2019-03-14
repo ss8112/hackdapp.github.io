@@ -2,23 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hackdapp.com/weekly/index.html</loc>
+    
+    <lastmod>2019-03-14T01:29:31.056Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/things/index.html</loc>
+    
+    <lastmod>2019-03-14T01:27:35.138Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_datastorage_historyaction.html</loc>
     
-    <lastmod>2019-03-13T09:40:32.948Z</lastmod>
+    <lastmod>2019-03-14T01:23:48.165Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.hackdapp.com/archives/eosdev_deploycontract_eosjs.html</loc>
     
-    <lastmod>2019-03-13T09:37:13.501Z</lastmod>
+    <lastmod>2019-03-14T01:23:36.811Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.hackdapp.com/archives/eosdev_contract_abi.html</loc>
     
-    <lastmod>2019-03-07T11:37:07.445Z</lastmod>
+    <lastmod>2019-03-14T01:23:31.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/archives/tron_boilerplate.html</loc>
+    
+    <lastmod>2019-03-14T01:23:20.550Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/about/index.html</loc>
+    
+    <lastmod>2019-03-14T01:23:11.362Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/edusmart/index.html</loc>
+    
+    <lastmod>2019-03-14T01:22:58.727Z</lastmod>
     
   </url>
   
@@ -37,23 +72,9 @@
   </url>
   
   <url>
-    <loc>https://www.hackdapp.com/weekly/index.html</loc>
-    
-    <lastmod>2019-02-21T09:13:33.622Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_basic.html</loc>
     
     <lastmod>2019-02-21T07:40:16.455Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/things/index.html</loc>
-    
-    <lastmod>2019-02-14T08:43:03.607Z</lastmod>
     
   </url>
   
@@ -86,20 +107,6 @@
   </url>
   
   <url>
-    <loc>https://www.hackdapp.com/edusmart/index.html</loc>
-    
-    <lastmod>2019-02-14T02:21:53.277Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/archives/tron_boilerplate.html</loc>
-    
-    <lastmod>2019-01-28T10:57:20.842Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_intro.html</loc>
     
     <lastmod>2019-01-28T10:56:43.903Z</lastmod>
@@ -124,13 +131,6 @@
     <loc>https://www.hackdapp.com/google1031035202c817c5.html</loc>
     
     <lastmod>2019-01-11T00:12:38.060Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/about/index.html</loc>
-    
-    <lastmod>2019-01-11T00:03:41.737Z</lastmod>
     
   </url>
   
