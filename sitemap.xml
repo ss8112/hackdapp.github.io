@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hackdapp.com/archives/eosdev_datastorage_historyaction.html</loc>
+    
+    <lastmod>2019-03-14T06:12:42.108Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hackdapp.com/weekly/index.html</loc>
     
     <lastmod>2019-03-14T01:29:31.056Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://www.hackdapp.com/things/index.html</loc>
     
     <lastmod>2019-03-14T01:27:35.138Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/archives/eosdev_datastorage_historyaction.html</loc>
-    
-    <lastmod>2019-03-14T01:23:48.165Z</lastmod>
     
   </url>
   
