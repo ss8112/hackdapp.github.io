@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.hackdapp.com/"/>
-  <updated>2019-03-25T02:02:39.999Z</updated>
+  <updated>2019-04-01T23:53:47.400Z</updated>
   <id>https://www.hackdapp.com/</id>
   
   <author>
@@ -17,15 +17,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>学习周报-13W: 六经注我</title>
+    <title>学习周报-13W: 制作自己的产品以及初阶运营</title>
     <link href="https://www.hackdapp.com/archives/weekly13.html"/>
     <id>https://www.hackdapp.com/archives/weekly13.html</id>
-    <published>2019-03-24T16:00:00.000Z</published>
-    <updated>2019-03-25T02:02:39.999Z</updated>
+    <published>2019-03-30T16:00:00.000Z</published>
+    <updated>2019-04-01T23:53:47.400Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>应用型人才与技术人才的选择。那么我可能更适合应用型，以解决问题来入口出发。</p></blockquote><hr><ul><li>plasma-cash/plasma_cash/root_chain at master · omisego/plasma-cash<br><a href="https://github.com/omisego/plasma-cash/tree/master/plasma_cash/root_chain" target="_blank" rel="noopener">https://github.com/omisego/plasma-cash/tree/master/plasma_cash/root_chain</a></li><li>OpenZeppelin ERC721源码分析<br><a href="https://yuanxuxu.com/2018/06/28/openzeppelin-erc721-code-analysis/" target="_blank" rel="noopener">https://yuanxuxu.com/2018/06/28/openzeppelin-erc721-code-analysis/</a></li><li>Plasma Cash Simple Spec<br><a href="https://karl.tech/plasma-cash-simple-spec/" target="_blank" rel="noopener">https://karl.tech/plasma-cash-simple-spec/</a></li><li>Loom架构图<br><a href="https://loomx.io/developers/docs/en/arch.html" target="_blank" rel="noopener">https://loomx.io/developers/docs/en/arch.html</a></li><li>遗憾的是，在 Plasma Cash 上发送任意小额的代币会困难得多（Plasma Debit 或状态通道可以解决这一问题，详情见延伸阅读） 。用户通过调用押金函数来指定押金金额。虽然通过 Plasma Cash 发送 ERC721 代币比较好，但是 Plasma MVP 的 UTXO 模型可以更好地处理任意金额的代币交易。<br><a href="http://m.qukuaiwang.com.cn/news/11548.html" target="_blank" rel="noopener">http://m.qukuaiwang.com.cn/news/11548.html</a></li><li>ERC-721<br>erc721.org</li><li>openzeppelin-solidity/ERC721.sol at master · OpenZeppelin/openzeppelin-solidity<br><a href="https://github.com/OpenZeppelin/openzeppelin-solidity/blob/master/contracts/token/ERC721/ERC721.sol" target="_blank" rel="noopener">https://github.com/OpenZeppelin/openzeppelin-solidity/blob/master/contracts/token/ERC721/ERC721.sol</a></li><li><p><a href="https://github.com/loomnetwork/plasma-erc721" target="_blank" rel="noopener">https://github.com/loomnetwork/plasma-erc721</a></p></li><li><p>Plasma XT  是Plasma Cash的改进版，主要是在安全方面做了改进。它提出了一个Plasma Cash可能的潜在双花问题的解决方案。 more detail： <a href="https://ethresear.ch/t/plasma-xt-plasma-cash-with-much-less-per-user-data-checking/1926" target="_blank" rel="noopener">https://ethresear.ch/t/plasma-xt-plasma-cash-with-much-less-per-user-data-checking/1926</a></p></li><li><p>OmiseGo是Plasma的第一个实现应用。因为在OMG想要在支付领域取得建树，必须具有强大的处理海量交易的能力。区块链上能支持全球范围内的大量的去中心化金融应用。</p></li><li><a href="https://ethfans.org/topics/1938" target="_blank" rel="noopener">重磅 | 美图技术团队发布开源 ethereum dpos 实现 » 论坛 » EthFans | 以太坊爱好者</a></li></ul>]]></content>
     
     <summary type="html">
     
-      本周最大的收获就是：
+      本周最大的收获就是：如何按照plasma-mvp模型开发侧链，其中可以借鉴的是Loom及OmiseGo的技术方案。HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="plasma" scheme="https://www.hackdapp.com/tags/plasma/"/>
+    
+      <category term="Loom" scheme="https://www.hackdapp.com/tags/Loom/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习周报-12W: 持续的精力投入并以文字记录成长</title>
+    <link href="https://www.hackdapp.com/archives/weekly12.html"/>
+    <id>https://www.hackdapp.com/archives/weekly12.html</id>
+    <published>2019-03-24T13:07:52.000Z</published>
+    <updated>2019-04-01T22:12:40.755Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>你的目标是什么？给自己一个deadline？</p></blockquote><p><strong>说给自己听的</strong></p><figure class="highlight gcode"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">有时候感觉和自己对话<span class="comment">(不是自主自语啊，其实就是写字的过程，将自己的想法写成文字)</span>的状态真的很棒，</span><br><span class="line">在写的过程慢慢能够唤醒心中的另一个声音，通过这种方式要可以让自己心放松下来，降低心中的焦虑，取而代之的是具体的行事方式。</span><br><span class="line">比如：今天上午的状态就不是太好，自己的调解方式就是好好洗把脸、清醒清醒。想想内心愉悦的事。</span><br><span class="line">用成就的事情来消除头脑的焦虑。要明白焦虑不是一种对抗状态，不是解决方式。要直面问题，而非情绪，不由得又想起黄执中老师对于情绪管理的一些理解。</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">对自己最大的动力便是，通过文字记录自己的成长。</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">要给自己一个期限，不可能一直按现有薪资做某一项事情，你当初的目的就是跨界成长。如果由于自己的惰性而放松的化，那还不如回到当初的状态，最起码薪资要比现在的高出不少。不正视自己的努力与蜕变，那就是对自己的不尊重。</span><br></pre></td></tr></table></figure><hr><h2 id="见"><a href="#见" class="headerlink" title="见"></a>见</h2><h3 id="2019-03-18"><a href="#2019-03-18" class="headerlink" title="2019-03-18"></a>2019-03-18</h3><ol><li>雇佣是存量思维，投资自己是增量思维<br> 这个是在spenser文章看到的一句话。看待事物不能只看于其表面所带来的价址，而应该往其未来价值或更深层次的价值。比如：是否在课程或某项活动存在一些高质量潜在的用户。</li><li>Achieve3000<br> 偶尔看到一个关于Lexile值，即蓝思值的测试了解到的。也搜到了一些根据蓝思值推荐书籍的网站</li><li><a href="https://www.lyric.im/maker-vs-manager" target="_blank" rel="noopener">译：创造者 vs 管理者，日程规划能成就了你的工作，也可能毁掉你的工作 - GitPress.io</a><br> 这篇文章之所以看到，是因为作者设计了一款关于微信公众号排版工具，从他所关联的网站所了解到的。</li><li><a href="https://www.lyric.im/how-to-improve-english-reading-level-from-870L-to-1300L" target="_blank" rel="noopener">我如何在两个月内把英语阅读水平从六年级提高大学 - GitPress.io</a></li><li>ReadingPro<br> <a href="http://www.readingpro.cn/，这个网站可以进行蓝思值的测试，不过需要支付50元" target="_blank" rel="noopener">http://www.readingpro.cn/，这个网站可以进行蓝思值的测试，不过需要支付50元</a></li><li><a href="http://www.360doc.com/content/18/1127/08/57517105_797492881.shtml" target="_blank" rel="noopener">Achieve3000产品介绍和操作演示</a></li><li><a href="http://www.theprincetonschool.com/lexile-measure#achieve3000" target="_blank" rel="noopener">The Princeton School</a><br> <img src="http://cdn.hackdapp.com/2019-03-18-132706.png" alt=""><br> <a href="http://www.theprincetonschool.com/lexile-measure#achieve3000" target="_blank" rel="noopener">http://www.theprincetonschool.com/lexile-measure#achieve3000</a></li></ol><h2 id="感"><a href="#感" class="headerlink" title="感"></a>感</h2><h3 id="2019-03-18-1"><a href="#2019-03-18-1" class="headerlink" title="2019-03-18"></a>2019-03-18</h3><p>做事情不够专注与投注。 不知道自己在拖什么呢。最直观的感受就是越拖内心压力其实越大。</p><h2 id="思"><a href="#思" class="headerlink" title="思"></a>思</h2><h3 id="2019-03-18-如何能写出一篇让用户特别满意的教程文档"><a href="#2019-03-18-如何能写出一篇让用户特别满意的教程文档" class="headerlink" title="2019-03-18 如何能写出一篇让用户特别满意的教程文档"></a>2019-03-18 如何能写出一篇让用户特别满意的教程文档</h3><p>思考：授之于鱼还是渔<br>思考：用户最喜欢的技术教程是什么样子的。教程结构清晰， 一眼知道需要分几步操作。既要讲的简单，也要讲的深入。讲的简单，其实就是按用户的层次能够提供相应可理解的示例。举例子确实是一个好的方式。最好是使用商业真实场景，demo形式的可能不具代表性。</p><p>就比如写EOS合约文档，就想成把合约里所有的知识都讲出来。但这样写出来的文档，虽然够全，但用户可能因为篇幅太长，而选择性不看。又或者文章内容太长，结构层次反而会有所影响。所以我自己想过之后，是否可以先写一个大纲的形式。然后再从不小章节进行拆分，进行中高阶不同层次的文章讲解来深入理解其技术。<br>EOS智能合约讲解</p><ol><li>简单示例合约，虽然简单但五脏俱全。</li><li>分拆：合约结构设计：字典文件、工具文件、配置文件、接口文件、接口实现。</li><li>分拆：知识点：ABI</li><li>分拆：知识点：数据结构定义。数据类型有哪些，如何进行选择，比如资金字段</li><li>分拆：知识点：如何实现单例存储</li><li>分拆：知识点：multi_index,如何定义二级索引， 索引的多种遍历方式</li><li>分拆: ……</li></ol><h2 id="行"><a href="#行" class="headerlink" title="行"></a>行</h2><h3 id="2019-03-18-2"><a href="#2019-03-18-2" class="headerlink" title="2019-03-18"></a>2019-03-18</h3><p>通过本周所吸收的一些新的信息，觉得可以做且持续可以做的事：</p><ul><li>英语学习<br>增强英语阅读，可以试着通过翻译文章来提高。</li><li>看书<br>不要觉得在客厅看会电视没啥，没啥没啥一二小时过去了。这一天也就过去了。</li><li>持续的技术投入</li></ul><p>需要对时间时刻保持感知， 一分钟、一小时。定好时间规划，该做啥就做啥，在规划中应对风险。</p><hr><p>与其周末花一段时间来总结本周心得，何不每天写一点，这样还可以总结所需消耗的时间。用这部分时间来直接回顾一周文字。</p>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是：运用增量思维的方式去考问题。另外，持续的精力投注，时刻让自己从内心感受到一些成长的感觉。时刻将自己那时那刻的最棒的感觉记录下来，形成文字，当自己不爽的时候，翻出来看看。HackDApp愿与你分享！
     
     </summary>
     
@@ -37,17 +65,17 @@
   </entry>
   
   <entry>
-    <title>学习周报-12W: 持续的精力投入并以文字记录成长</title>
-    <link href="https://www.hackdapp.com/archives/weekly12.html"/>
-    <id>https://www.hackdapp.com/archives/weekly12.html</id>
-    <published>2019-03-18T13:07:52.000Z</published>
-    <updated>2019-03-18T14:14:59.165Z</updated>
+    <title>学习周报-11W: OKR模板分享</title>
+    <link href="https://www.hackdapp.com/archives/weekly11.html"/>
+    <id>https://www.hackdapp.com/archives/weekly11.html</id>
+    <published>2019-03-16T16:00:00.000Z</published>
+    <updated>2019-04-01T23:43:03.985Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>你的目标是什么？给自己一个deadline？</p></blockquote><p><strong>说给自己听的</strong></p><figure class="highlight gcode"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">有时候感觉和自己对话<span class="comment">(不是自主自语啊，其实就是写字的过程，将自己的想法写成文字)</span>的状态真的很棒，</span><br><span class="line">在写的过程慢慢能够唤醒心中的另一个声音，通过这种方式要可以让自己心放松下来，降低心中的焦虑，取而代之的是具体的行事方式。</span><br><span class="line">比如：今天上午的状态就不是太好，自己的调解方式就是好好洗把脸、清醒清醒。想想内心愉悦的事。</span><br><span class="line">用成就的事情来消除头脑的焦虑。要明白焦虑不是一种对抗状态，不是解决方式。要直面问题，而非情绪，不由得又想起黄执中老师对于情绪管理的一些理解。</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">对自己最大的动力便是，通过文字记录自己的成长。</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">要给自己一个期限，不可能一直按现有薪资做某一项事情，你当初的目的就是跨界成长。如果由于自己的惰性而放松的化，那还不如回到当初的状态，最起码薪资要比现在的高出不少。不正视自己的努力与蜕变，那就是对自己的不尊重。</span><br></pre></td></tr></table></figure><hr><h2 id="见"><a href="#见" class="headerlink" title="见"></a>见</h2><h3 id="2019-03-18"><a href="#2019-03-18" class="headerlink" title="2019-03-18"></a>2019-03-18</h3><ol><li>雇佣是存量思维，投资自己是增量思维<br> 这个是在spenser文章看到的一句话。看待事物不能只看于其表面所带来的价址，而应该往其未来价值或更深层次的价值。比如：是否在课程或某项活动存在一些高质量潜在的用户。</li><li>Achieve3000<br> 偶尔看到一个关于Lexile值，即蓝思值的测试了解到的。也搜到了一些根据蓝思值推荐书籍的网站</li><li><a href="https://www.lyric.im/maker-vs-manager" target="_blank" rel="noopener">译：创造者 vs 管理者，日程规划能成就了你的工作，也可能毁掉你的工作 - GitPress.io</a><br> 这篇文章之所以看到，是因为作者设计了一款关于微信公众号排版工具，从他所关联的网站所了解到的。</li><li><a href="https://www.lyric.im/how-to-improve-english-reading-level-from-870L-to-1300L" target="_blank" rel="noopener">我如何在两个月内把英语阅读水平从六年级提高大学 - GitPress.io</a></li><li>ReadingPro<br> <a href="http://www.readingpro.cn/，这个网站可以进行蓝思值的测试，不过需要支付50元" target="_blank" rel="noopener">http://www.readingpro.cn/，这个网站可以进行蓝思值的测试，不过需要支付50元</a></li><li><a href="http://www.360doc.com/content/18/1127/08/57517105_797492881.shtml" target="_blank" rel="noopener">Achieve3000产品介绍和操作演示</a></li><li><a href="http://www.theprincetonschool.com/lexile-measure#achieve3000" target="_blank" rel="noopener">The Princeton School</a><br> <img src="http://cdn.hackdapp.com/2019-03-18-132706.png" alt=""><br> <a href="http://www.theprincetonschool.com/lexile-measure#achieve3000" target="_blank" rel="noopener">http://www.theprincetonschool.com/lexile-measure#achieve3000</a></li></ol><h2 id="感"><a href="#感" class="headerlink" title="感"></a>感</h2><h3 id="2019-03-18-1"><a href="#2019-03-18-1" class="headerlink" title="2019-03-18"></a>2019-03-18</h3><p>做事情不够专注与投注。 不知道自己在拖什么呢。最直观的感受就是越拖内心压力其实越大。</p><h2 id="思"><a href="#思" class="headerlink" title="思"></a>思</h2><h3 id="2019-03-18-如何能写出一篇让用户特别满意的教程文档"><a href="#2019-03-18-如何能写出一篇让用户特别满意的教程文档" class="headerlink" title="2019-03-18 如何能写出一篇让用户特别满意的教程文档"></a>2019-03-18 如何能写出一篇让用户特别满意的教程文档</h3><p>思考：授之于鱼还是渔<br>思考：用户最喜欢的技术教程是什么样子的。教程结构清晰， 一眼知道需要分几步操作。既要讲的简单，也要讲的深入。讲的简单，其实就是按用户的层次能够提供相应可理解的示例。举例子确实是一个好的方式。最好是使用商业真实场景，demo形式的可能不具代表性。</p><p>就比如写EOS合约文档，就想成把合约里所有的知识都讲出来。但这样写出来的文档，虽然够全，但用户可能因为篇幅太长，而选择性不看。又或者文章内容太长，结构层次反而会有所影响。所以我自己想过之后，是否可以先写一个大纲的形式。然后再从不小章节进行拆分，进行中高阶不同层次的文章讲解来深入理解其技术。<br>EOS智能合约讲解</p><ol><li>简单示例合约，虽然简单但五脏俱全。</li><li>分拆：合约结构设计：字典文件、工具文件、配置文件、接口文件、接口实现。</li><li>分拆：知识点：ABI</li><li>分拆：知识点：数据结构定义。数据类型有哪些，如何进行选择，比如资金字段</li><li>分拆：知识点：如何实现单例存储</li><li>分拆：知识点：multi_index,如何定义二级索引， 索引的多种遍历方式</li><li>分拆: ……</li></ol><h2 id="行"><a href="#行" class="headerlink" title="行"></a>行</h2><h3 id="2019-03-18-2"><a href="#2019-03-18-2" class="headerlink" title="2019-03-18"></a>2019-03-18</h3><p>通过本周所吸收的一些新的信息，觉得可以做且持续可以做的事：</p><ul><li>英语学习<br>增强英语阅读，可以试着通过翻译文章来提高。</li><li>看书<br>不要觉得在客厅看会电视没啥，没啥没啥一二小时过去了。这一天也就过去了。</li><li>持续的技术投入</li></ul><p>需要对时间时刻保持感知， 一分钟、一小时。定好时间规划，该做啥就做啥，在规划中应对风险。</p><hr><p>与其周末花一段时间来总结本周心得，何不每天写一点，这样还可以总结所需消耗的时间。用这部分时间来直接回顾一周文字。</p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>学会正视问题本身，逃避不是解决问题的办法。</p></blockquote><h2 id="见"><a href="#见" class="headerlink" title="见"></a>见</h2><ol><li>OKR模板分享<br><img src="http://cdn.hackdapp.com/2019-04-01-233036.jpg" alt=""></li><li>《爱的五样礼物》，它包括：礼物、精心的时光（陪伴）、身体的接触（拥抱）、赞美、服务。</li><li><p><a href="https://12factor.net/zh_cn/" target="_blank" rel="noopener">The Twelve-Factor App （简体中文）</a><br>如今，软件通常会作为一种服务来交付，它们被称为网络应用程序，或软件即服务（SaaS）。12-Factor 为构建如下的 SaaS 应用提供了方法论：</p><p>使用标准化流程自动配置，从而使新的开发者花费最少的学习成本加入这个项目。<br>和操作系统之间尽可能的划清界限，在各个系统中提供最大的可移植性。<br>适合部署在现代的云计算平台，从而在服务器和系统管理方面节省资源。<br>将开发环境和生产环境的差异降至最低，并使用持续交付实施敏捷开发。<br>可以在工具、架构和开发流程不发生明显变化的前提下实现扩展。<br>这套理论适用于任意语言和后端服务（数据库、消息队列、缓存等）开发的应用程序。<br><img src="http://cdn.hackdapp.com/2019-04-01-233347.jpg" alt=""></p></li></ol><h2 id="感"><a href="#感" class="headerlink" title="感"></a>感</h2><p>有时候，人会恐惧某一件事情，而选择逃避。其实这失去了一次锻炼自我的机会，正视问题才能解决内心的恐惧。成长嘛，经历一次就会有第二次，慢慢就不怕了，反倒是越逃避越害怕。</p><p>给自己一次直面问题的选择吧。</p><h2 id="思"><a href="#思" class="headerlink" title="思"></a>思</h2><p>如何控制自己的情绪？<br>情绪真是个魔鬼，感觉心里面住着两个自己。正面、反面、躯体三者如何好好配合。其实要在这三者之前达到一种平衡，任何一个能力太弱或太强都会让自己翻车。</p><h2 id="行"><a href="#行" class="headerlink" title="行"></a>行</h2><p>将每日重要不紧急的事情拆解成目标放在OKR模板中， 并在每日结束时总结完成情况。尤其是在产品功能开发中，可以让自己在持续投入时间精力。</p>]]></content>
     
     <summary type="html">
     
-      本周最大的收获就是：运用增量思维的方式去考问题。另外，持续的精力投注，时刻让自己从内心感受到一些成长的感觉。时刻将自己那时那刻的最棒的感觉记录下来，形成文字，当自己不爽的时候，翻出来看看。
+      本周最大的收获就是：学会持续交付能力，正所谓一口吃不成一个胖子。学会正视问题本身，逃避不是解决问题的办法。 另外，分享给大家一个OKR工作模板。 HackDApp愿与你分享！
     
     </summary>
     
@@ -113,6 +141,28 @@
   </entry>
   
   <entry>
+    <title>学习周报-10W: 尝试使用卡片写作的形式进行分享</title>
+    <link href="https://www.hackdapp.com/archives/weekly10.html"/>
+    <id>https://www.hackdapp.com/archives/weekly10.html</id>
+    <published>2019-03-09T16:00:00.000Z</published>
+    <updated>2019-04-01T23:32:49.175Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="见"><a href="#见" class="headerlink" title="见"></a>见</h2><ol><li><a href="http://www.guxiaobei.com/seo" target="_blank" rel="noopener">SEO 顾小北的B2C博客</a></li></ol><h2 id="感"><a href="#感" class="headerlink" title="感"></a>感</h2><p>你的核心竞争力就在你平时八小时之外的能力培养。<br>安逸使人堕落，只要脱理危机。居安思危需入人心。</p><h2 id="思"><a href="#思" class="headerlink" title="思"></a>思</h2><p>如何能够自己的知识价值最大化？做一款产品，能帮助别人的产品，<br>成功或价值可以反推自己。</p><h2 id="行"><a href="#行" class="headerlink" title="行"></a>行</h2><p>尝试构建一个专题网站：针对IndieMaker提供工具或教程资源。持续更新才是你的价值点。</p>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是：尝试收集身边人的需求，考虑是否可以站在产品角度来思考如何解决他们的问题？HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>剖析EOS合约编译ABI文件</title>
     <link href="https://www.hackdapp.com/archives/eosdev_contract_abi.html"/>
     <id>https://www.hackdapp.com/archives/eosdev_contract_abi.html</id>
@@ -141,22 +191,93 @@
   </entry>
   
   <entry>
+    <title>学习周报-09W: 自学与组块的奥秘所在</title>
+    <link href="https://www.hackdapp.com/archives/weekly09.html"/>
+    <id>https://www.hackdapp.com/archives/weekly09.html</id>
+    <published>2019-03-02T16:00:00.000Z</published>
+    <updated>2019-04-01T23:24:55.754Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>知识模块化，然后通过拼积木的形式完成知识的构建。而其衔接方式才是其价值所在。</p></blockquote><hr><h2 id="信息列表"><a href="#信息列表" class="headerlink" title="信息列表"></a>信息列表</h2><ol><li><a href="http://www.xinli001.com/info/100315655" target="_blank" rel="noopener">掌握“组块”概念，让自学效率翻倍</a></li><li><a href="https://www.jianshu.com/p/8edd738d28d5" target="_blank" rel="noopener">组块，学习新知的利器</a></li><li><a href="https://www.coursera.org/lecture/ruhe-xuexi/shi-yao-shi-zu-kuai-mKXiU" target="_blank" rel="noopener">学会如何学习：帮助你掌握复杂学科的强大智力工具（Learning How to Learn）</a></li><li><a href="https://zhuanlan.zhihu.com/p/25057988" target="_blank" rel="noopener">天才的共同点：记忆组块的组合</a></li><li><a href="https://vimeo.com/100521066" target="_blank" rel="noopener">THINKING MAPS OVERVIEW- DAVID HYERLE on Vimeo</a><br>Watch this 3 minute video clip for an overview of David Hyerle explaining the 8 Thinking Maps as tools for lifelong learning.</li></ol><h2 id="感"><a href="#感" class="headerlink" title="感"></a>感</h2><p>不要以为你有大块时间才觉得可以让自己成长。其实很可能在找托辞，我们总会找一堆理由来让自己更心安理得。</p>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是：将知识模块化，然后通过拼积木的形式完成知识的构建. 不仅要学会如何学习， 还需要学会如何维护自己的知识树。想念这不是是一下子可以完成的事，而需要在不断的迭代过程中逐渐去升级优化的。HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="组块最全资料" scheme="https://www.hackdapp.com/tags/%E7%BB%84%E5%9D%97%E6%9C%80%E5%85%A8%E8%B5%84%E6%96%99/"/>
+    
+      <category term="自学底层概念认知（相当重要）" scheme="https://www.hackdapp.com/tags/%E8%87%AA%E5%AD%A6%E5%BA%95%E5%B1%82%E6%A6%82%E5%BF%B5%E8%AE%A4%E7%9F%A5%EF%BC%88%E7%9B%B8%E5%BD%93%E9%87%8D%E8%A6%81%EF%BC%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习周报-08W: 构建完整知识架构</title>
+    <link href="https://www.hackdapp.com/archives/weekly08.html"/>
+    <id>https://www.hackdapp.com/archives/weekly08.html</id>
+    <published>2019-02-23T16:38:26.000Z</published>
+    <updated>2019-04-01T22:44:47.746Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>对于单个知识点虽然你觉得重要，但很可能会遗忘。但如果是串在一起的一个完整的知识架构，我们总是能从关联线索中快速找到它并得以应用。所以不要让任何知识变得那么孤立存在。信息孤岛对于我们而言没有任何价值。</p></blockquote><hr><h2 id="信息列表"><a href="#信息列表" class="headerlink" title="信息列表"></a>信息列表</h2><ol><li><a href="http://knowledge.cryptokylin.io/topics/115" target="_blank" rel="noopener">EOS 合约内 string 转换为 capi_checksum256， capi_signature， capi_public_key · 麒麟知识库 - EOS, 技术社区, CryptoKylin</a></li><li><a href="https://www.jfq.com/college/other/18703.shtml" target="_blank" rel="noopener">数字货币k线图 看得懂的才叫投资_聚富财经</a><br>开发交易所所必须知识的一些专业指标信息</li><li><a href="https://elevenews.com/2018/11/21/the-only-eos-smart-contract-guide-youd-need-to-read/" target="_blank" rel="noopener">The Only EOS Smart Contract Guide You’d Need to Read | ELEVENEWS</a><br>EOS合约开发安全注意事项</li></ol><h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是：构建完整的知识架构，让每一个知识点都有线索可查，建立关联回路，达到快速检索与使用。HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="K线图指标" scheme="https://www.hackdapp.com/tags/K%E7%BA%BF%E5%9B%BE%E6%8C%87%E6%A0%87/"/>
+    
+      <category term="EOS字符串转换(capi_signature，capi_public_key)" scheme="https://www.hackdapp.com/tags/EOS%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2-capi-signature%EF%BC%8Ccapi-public-key/"/>
+    
+      <category term="EOS安全注意事项" scheme="https://www.hackdapp.com/tags/EOS%E5%AE%89%E5%85%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习周报-07W: 持续更新的价值</title>
+    <link href="https://www.hackdapp.com/archives/weekly07.html"/>
+    <id>https://www.hackdapp.com/archives/weekly07.html</id>
+    <published>2019-02-16T16:00:00.000Z</published>
+    <updated>2019-04-01T22:33:23.642Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>学会价值导向，优质资源往往都向优质人群聚焦。</p></blockquote><hr><h2 id="信息列表"><a href="#信息列表" class="headerlink" title="信息列表"></a>信息列表</h2><ul><li>fairdicegame/fairdicegame.hpp at e081535681ba5c661b3d51cfac5e03e3e266acd9 · Dappub/fairdicegame<br>EOSDApp开发可参考示例，从别人的代码中永远可以看到自己需要成长的点</li><li>public key - How to transfer token and do some action inline?Or how to parse string to signature and publickey? - EOS.IO Stack Exchange<br><a href="https://eosio.stackexchange.com/questions/3304/how-to-transfer-token-and-do-some-action-inlineor-how-to-parse-string-to-signat" target="_blank" rel="noopener">https://eosio.stackexchange.com/questions/3304/how-to-transfer-token-and-do-some-action-inlineor-how-to-parse-string-to-signat</a><br>解决EOS签名验证问题<br><img src="http://cdn.hackdapp.com/2019-04-01-223231.jpg" alt=""></li></ul><h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是：持续更新的价值. 只有持续不断的创造价值内容，别人才会认为你不是一团死水，才会认可可以带来更优质的价值信息。但这一过程唯需要两件事：1.持续性 2.筛选优质资源。 HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>重塑思维：自律 VS 习惯</title>
     <link href="https://www.hackdapp.com/archives/rebuildbrain_habit.html"/>
     <id>https://www.hackdapp.com/archives/rebuildbrain_habit.html</id>
     <published>2019-02-14T07:46:39.000Z</published>
-    <updated>2019-02-14T08:09:21.733Z</updated>
+    <updated>2019-04-01T22:24:27.993Z</updated>
     
     <content type="html"><![CDATA[<p><strong>自律使我压抑，习惯助我成长。</strong> 自律与习惯，其实目标都是一致的，只是所产生的行动动力源是不相同的。</p><p>相信每个人都在不停的思考一个问题，“我如何才能使明天的自己比今天的自己更加优秀一些呢？”</p><p>为了让自己变得更好，我们去总结规律，改变自我认知，希望能从不断的思维升级过程中，锻造出属于自己的思维工具，培养及丰富问题症结的方案库。</p><p>为了让自己变得更好，我们需要靠意志去坚持去做一件让自己变得优秀的事情，但你发现一段时间之后，这件事不了了知，扔那儿放下了，因为这样的事在我的人生当中简直太熟悉不过了。</p><p>相反，有一些行为却长期固化下来了，比如我们的一些日常洗漱习惯，即使你中途有一段时间没去做，那你也不会放弃这件事。</p><p>当某一种行为已经成为你的习惯时，如果你有意识的去观察一下，会发现一些许规律。比如：刷牙，可能现在没有不早晚刷牙的童鞋吧。不妨想一想这个行为大家保持了多少年，到现在是否还需要各种精神动力去推着自己去做这个事吗？</p><p>明显不需要，可以说这已经是写入自己骨头里的一种惯性行为，你要是不注意都不发现它原来其实就是一个号的学习榜样。因为它太习以为常了，平常的都忘掉它的存在。</p><p>那既然刷牙可以养成习惯，那我们其他行为为啥就不能养成一种习惯呢？</p><p>首先，处于习惯性的行为执行过程并不会让你特别有心理负担；<br>其次，习惯中的行为并不会消耗自己稀缺的精力；<br>最后，行为关联及导向性。也就是习惯行为之间的联动开关。比如：洗漱的时候总能与刷牙这件事产生一定的链接，而这个链接往往就是我们通过意识去不断增强脑回路而形成的。</p><p>之所以总结这些，就是因为我身上的一件事，当时看李笑来的专栏里曾经提到一种感受，就是“不做这件事就难受”。 当时是在是无法理解这种状态，除了吃饭这件事，找不出天天不做就难受的事来，当你无法从自身找到可以参考的例子时，你总是无法理解其概念。</p><p>直到我发现身上这件事，<code>刮胡子</code>。对，你没看错，就是刮胡子。</p><p>为什么讲呢？因为之前总是用电动剃须刀，总是容易忘记用，时做时不做的，而且刮的也不是太干净。直到有一天看到京东做活动卖手动剃须刀，想着买来试一试，但当时也犹豫，每天早上用这个会不会特花时间啊。</p><p>但事实证明，相比电动剃须刀，手动的虽然要麻烦一些，时间也要多花费一些。但这件事我却坚持了一年，直至今日从心理感受来讲，自己并没有感觉每天要逼着自己去做这件事，而是很自觉的每天洗漱后自动进入刮胡子状态。</p><p>为什么会这样呢？因为每一次刮完胡子，对着镜子一照，感觉干净清爽，漂亮，帅气。让我从内心看到一个舒服的自己，这算不算是一种仪式感呢。</p><p>后来，我总结了一下习惯养成的一个关键因素：持续的心理反馈。反馈可以让我们感受到变化与进步，或是一种心理满足；而持续性一来可以增强行为的动力，二过可以慢慢促进脑回路的链接建立。</p><p>那么，如何建立自己的习惯养成路径呢？那就是</p><ol><li>先制定一个你绝对认可其价值的目标；</li><li>在意识中建立诱导因子，也就是你需要在已形成的习惯之中，建立一个与新行动的触感连接；</li><li>持续反馈，每天都要总结，让自己内心见证成长，而后通过持续达到巩固行动的动力。</li></ol><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>好的习惯、应用技巧及思维方式是可以产生复利效应价值的，关键在于它不是形式上的应用，不是为技巧而技巧，一定是在我们的生活或工作实际场景中解决实际问题，并以此不断反馈价值收获，而持续的价值收益又会加强我们执行的动力，最终形成一个正向向上的良性循环♻️。</p><p>执行力其实是落实行动的第一要素，所以我们需要学会如何去补充这项能源。而最好的方式就是让自己认可这件事的价值。并且能够在做事的过程中，有深刻的反馈与心理感受，学会记录自己的心理变化。</p><p>最后，通过不断的执行与反馈，增强我们的脑回路链接。久而久之，就会成为我们的习惯。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;strong&gt;自律使我压抑，习惯助我成长。&lt;/strong&gt; 自律与习惯，其实目标都是一致的，只是所产生的行动动力源是不相同的。&lt;/p&gt;
-&lt;p&gt;相信每个人都在不停的思考一个问题，“我如何才能使明天的自己比今天的自己更加优秀一些呢？”&lt;/p&gt;
-&lt;p&gt;为了让自己变得更好，我们
-      
+      本周最大的收获就是：搞清楚自律与习惯间的转换逻辑。明白靠自律去约束自己只能不断内耗意志力，相反如果通过打造系统逻辑，形成习惯便可从根本上提高效率。因为本身习惯不消耗意志力而是一种肌肉反应能力。HackDApp愿与你分享！
     
     </summary>
     
@@ -168,6 +289,56 @@
       <category term="自律与习惯" scheme="https://www.hackdapp.com/tags/%E8%87%AA%E5%BE%8B%E4%B8%8E%E4%B9%A0%E6%83%AF/"/>
     
       <category term="思维认知" scheme="https://www.hackdapp.com/tags/%E6%80%9D%E7%BB%B4%E8%AE%A4%E7%9F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习周报-06W: 在反思中获取成长</title>
+    <link href="https://www.hackdapp.com/archives/weekly06.html"/>
+    <id>https://www.hackdapp.com/archives/weekly06.html</id>
+    <published>2019-02-09T16:00:00.000Z</published>
+    <updated>2019-04-01T22:21:17.573Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote></blockquote><ul><li style="list-style: none"><input type="checkbox"> paritytech/parity-bridge: Bridge between any two ethereum-based networks<pre><code>如何桥接两个以太坊网络</code></pre></li><li style="list-style: none"><input type="checkbox"> 以下30个问题，便于自媒体人、内容创业者、想打造个人品牌的人，系统地梳理自己的模式，以及做复盘和反思。当然，在职场上班的朋友也可以参考。</li></ul><hr><h3 id="新媒体人如何系统地做复盘和反思？这里有30个关键词-30个问题"><a href="#新媒体人如何系统地做复盘和反思？这里有30个关键词-30个问题" class="headerlink" title="新媒体人如何系统地做复盘和反思？这里有30个关键词+30个问题"></a>新媒体人如何系统地做复盘和反思？这里有30个关键词+30个问题</h3><p>随便聊聊 来一篇精华 思维模型</p><p>Written by：V先生<br>ChangeLog：20190126-2210</p><p>Tag：底层逻辑​，清单，思维模型​，互联网​，新媒体​，自媒体​，社群​，电商​，个人品牌​，产品，商业模式​，变现​，生意经​，工作效率​，复盘，创业，创业者，方法论，团队管理，目标，行动，模板<br>——<br>以下30个问题，便于自媒体人、内容创业者、想打造个人品牌的人，系统地梳理自己的模式，以及做复盘和反思。当然，在职场上班的朋友也可以参考。<br>——</p><p>01、【目标】你到底想做什么？如何用数字来表达你的目标？（如读100本书的100、赚50万的50万、涨粉10万的10万，都是明确的数字）</p><p>02、【任务】为了实现目标，需要拆解为哪些任务？其中关键任务是哪一个？</p><p>03、【每天三件事】任务需要落实在每一天的行动中，那么每天必做的最重要的三件事是什么？</p><p>04、【时间】你总共有多少时间？</p><p>05、【注意力】有效利用起来了多少时间？</p><p>06、【效率】利用的时间里出了多少活？有没有借助提高效率的流程图和科技工具？</p><p>07、【输出】出的成果是自己用（价值积累）还是卖出去（价值变现）了？</p><p>08、【产品】如果卖出去，呈现为什么产品或者服务？如果产品或服务多，可以梳理为几条产品线？</p><p>09、【目标用户】卖给谁？to b 还是 to c？他们在哪？怎么让他们知道你和你的产品？</p><p>10、【种子用户】第一批用户在哪？怎么找到他们？</p><p>11、【需求】卖出去是不是别人需要的？是高频还是低频？有没有抓住痛点？</p><p>12、【换位思考】从用户角度调研和思考，他们买单的理由有哪些？为什么买你的不买别人的？</p><p>13、【价值】如何确保你的产品或服务，真正解决用户的问题？</p><p>14、【成本与回报】卖出去卖了多少钱？花了多少成本？</p><p>15、【赛道】这些活是否聚焦在一个方向上？这个方向属于什么赛道？</p><p>16、【商业模式】这个方向具体表现为什么商业模式？（可以商业模式画布梳理）</p><p>17、【标签】这个模式提炼为什么标签（一个Logo、一个名字、一句slogan）对外宣传？每一次广告、互动和交易，是否让别人更深刻地记住你的标签？</p><p>18、【品牌宣传】通过什么文案、海报、故事、金句、歌曲、gif表情包、直播、短视频、户外广告、电子书、书，去宣传你和你的产品？</p><p>19、【复利】所做的事情有长期的复利还是一锤子买卖？</p><p>20、【学习型团队】所有环节都是你一个人亲力亲为还是授权给团队？团队如何分工、如何协作？团队的沟通原则是什么？有没有记录运营日记、写周报？有没有联机学习、联机思考、联机复盘？</p><p>21、【外包】是否把其中部分缓解外包给专业公司、专业的人，以确保自己专注于核心能力？</p><p>22、【趋势】时代正在发生或即将到来的风口有哪些？有没有借助大周期、小趋势、平台红利之力？</p><p>23、【数据】做的过程中，有没有及时收集、记录和分析相关数据，用数据驱动增长？</p><p>24、【系统】有没有建立并迭代你的系统，包括原则、思维模型、最小必要知识、知识体系、数据库、个人流程图、团队流程图、工具清单、人脉档案、商业模式画布…？</p><p>25、【底层逻辑】你是否清晰地认知到，手头事情的本质、关键要素、其中各个要素的关系？</p><p>26、【市场容量】你赖以吃饭的事情，竞争对手有多少？市场容量有多大？</p><p>27、【能力圈】在此过程中，你是否找到了你的能力圈，能力圈内最擅长、最能做到极致的一件事是什么？（精力、认知、技能、团队、资源、人脉、资金方面的）局限是什么？</p><p>28、【竞争力】如何在市场上建立你的护城河，以保持持久的竞争力？</p><p>29、【升级】如何升级你的商业模式、产品、团队管理、服务、用户体验、运营、推广？如何做到10倍好？</p><p>30、【流量池】下一批用户从哪里来？是否有储备自己的流量池，以及外部可以投放的渠道？</p><p>——</p><p>附图：1984年，袁庚在深圳蛇口竖起的标语“时间就是金钱，效率就是生命”，已成为一个时代的文化坐标，至今激励着无数中国人闯过风云、创新前行。</p><p>——<br>欢迎生财有术的圈友们加微信交流，<br>ID：zorbabuddha（注明：生财有术）</p>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是： 新媒体人如何系统地做复盘和反思。 或许每个人都该问问自己是不是在不断的重复之前的错误，没有去复盘总结过去的想经验与教训，那就是对自己人生时间的浪费。 HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="复盘和反思（30个关键字+30个问题）" scheme="https://www.hackdapp.com/tags/%E5%A4%8D%E7%9B%98%E5%92%8C%E5%8F%8D%E6%80%9D%EF%BC%8830%E4%B8%AA%E5%85%B3%E9%94%AE%E5%AD%97-30%E4%B8%AA%E9%97%AE%E9%A2%98%EF%BC%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习周报-05W: 切勿急躁万事慢来</title>
+    <link href="https://www.hackdapp.com/archives/weekly05.html"/>
+    <id>https://www.hackdapp.com/archives/weekly05.html</id>
+    <published>2019-02-02T16:00:00.000Z</published>
+    <updated>2019-04-01T23:53:06.594Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>先写点，然后再成线， 最后成面。万事皆一也。</p></blockquote><hr><h2 id="信息列表"><a href="#信息列表" class="headerlink" title="信息列表"></a>信息列表</h2><ul><li style="list-style: none"><input type="checkbox"> <a href="https://cosmos.network/" target="_blank" rel="noopener">https://cosmos.network/</a></li><li style="list-style: none"><input type="checkbox"> termit commos<br><a href="https://tendermint.com/docs/introduction/" target="_blank" rel="noopener">https://tendermint.com/docs/introduction/</a><br>Tendermint is software for securely and consistently replicating an application on many machines. By securely, we mean that Tendermint works even if up to 1/3 of machines fail in arbitrary ways. By consistently, we mean that every non-faulty machine sees the same transaction log and computes the same state. Secure and consistent replication is a fundamental problem in distributed systems; it plays a critical role in the fault tolerance of a broad range of applications, from currencies, to elections, to infrastructure orchestration, and beyond.</li><li style="list-style: none"><input type="checkbox"> mj 小小熊<br><a href="https://www.jianshu.com/p/33382c29afb5" target="_blank" rel="noopener">https://www.jianshu.com/p/33382c29afb5</a></li><li style="list-style: none"><input type="checkbox"> 以太坊的分片 - 简书VMC合约<br><a href="https://www.jianshu.com/p/fc6ce8b38129" target="_blank" rel="noopener">https://www.jianshu.com/p/fc6ce8b38129</a></li><li style="list-style: none"><input type="checkbox"> <a href="https://www.jianshu.com/p/13e532039fe2" target="_blank" rel="noopener">【众说区块链】以太坊分片技术提升100倍处理效率，有多大作用？ - 简书</a></li><li style="list-style: none"><input type="checkbox"> <a href="https://ci-jie.github.io/2018/05/21/%E5%9C%A8-PoA-Ethereum-%E5%8A%A0%E5%85%A5%E4%BF%A1%E4%BB%BB%E7%AF%80%E9%BB%9E/" target="_blank" rel="noopener">在 PoA Ethereum 加入信任節點 | James’s Blog</a></li></ul><h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><ol><li>学习还是要坚持下去的 至于学什么怎么学是自己的事 要对自己的选择负责</li><li>有效的可持续的学习方法 是给要学的知识 建立知识体系 即 一棵棵的知识树</li><li>MJ老师的这堂超级数字力课 也许是你应该最先学的课程之一 这棵树种的越早越好</li><li>关于学习的知识树方法论 可以去搜特斯拉的 Elon Musk 也可以去搜 小能熊</li><li>树种下去 只是开始 不断使用才能常青 不断修整才能茂盛 ⑧<br><a href="https://www.jianshu.com/p/fc6ce8b38129" target="_blank" rel="noopener">https://www.jianshu.com/p/fc6ce8b38129</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是：人生的跳跃取决于平凡生活的点点积累。切勿急躁，注重日常知识积累，打磨心智。cosmos.network。HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="公链技术" scheme="https://www.hackdapp.com/tags/%E5%85%AC%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="以太坊的分片简书VMC合约" scheme="https://www.hackdapp.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E5%88%86%E7%89%87%E7%AE%80%E4%B9%A6VMC%E5%90%88%E7%BA%A6/"/>
     
   </entry>
   
@@ -229,6 +400,28 @@
   </entry>
   
   <entry>
+    <title>学习周报-04W: </title>
+    <link href="https://www.hackdapp.com/archives/weekly04.html"/>
+    <id>https://www.hackdapp.com/archives/weekly04.html</id>
+    <published>2019-01-26T16:00:00.000Z</published>
+    <updated>2019-04-01T22:12:06.440Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>运营图谱2.0 之所以会火，也是取决于人们都追求知识的完整性。相对于散落的知识点，完整的知识图谱更容易让人僮有明确的概念认识。</p></blockquote><h2 id="信息列表"><a href="#信息列表" class="headerlink" title="信息列表"></a>信息列表</h2><ul><li style="list-style: none"><input type="checkbox"> 域名： dev.tupu.com</li><li style="list-style: none"><input type="checkbox"> 域名： oopscode</li><li style="list-style: none"><input type="checkbox"> 域名： dappstudio</li><li style="list-style: none"><input type="checkbox"> <a href="http://joinwee.com/lesson/20/#4" target="_blank" rel="noopener">TED深度学习四步法–WEE-Beta 用智慧创造好玩有趣的开放学习机会</a></li><li style="list-style: none"><input type="checkbox"> 使用zetro给thing3减负，将待办事项与信息切分。在转存的时候一定要编写自己的备注，否则可能无法搜索出来</li><li style="list-style: none"><input type="checkbox"> things只做待办事项存储不做知识信息存储</li></ul><h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><ul><li style="list-style: none"><input type="checkbox"> 社群工具集合网站</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是：尝试制作流量IP（知识图谱、运营图谱）。TED深度学习四步法 HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>坚持的长性</title>
     <link href="https://www.hackdapp.com/archives/think_habit.html"/>
     <id>https://www.hackdapp.com/archives/think_habit.html</id>
@@ -262,21 +455,39 @@
   </entry>
   
   <entry>
-    <title>HackDApp学习周报02W:如何成为演讲的高手</title>
-    <link href="https://www.hackdapp.com/archives/weekly08.html"/>
-    <id>https://www.hackdapp.com/archives/weekly08.html</id>
-    <published>2019-01-20T16:38:26.000Z</published>
-    <updated>2019-02-21T09:14:18.120Z</updated>
+    <title>学习周报-03W: 在线小产品思路借鉴</title>
+    <link href="https://www.hackdapp.com/archives/weekly03.html"/>
+    <id>https://www.hackdapp.com/archives/weekly03.html</id>
+    <published>2019-01-19T16:00:00.000Z</published>
+    <updated>2019-04-01T22:12:02.525Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="知识学习"><a href="#知识学习" class="headerlink" title="知识学习"></a>知识学习</h1><ul><li><a href="http://joinwee.com/lesson/20/#4" target="_blank" rel="noopener">TED深度学习四步法</a><br>何为组块</li><li><a href="得到">如保成为演讲的高手</a></li></ul><hr><h1 id="思维成长"><a href="#思维成长" class="headerlink" title="思维成长"></a>思维成长</h1><hr><h1 id="软件工具"><a href="#软件工具" class="headerlink" title="软件工具"></a>软件工具</h1><hr><h1 id="书籍阅读"><a href="#书籍阅读" class="headerlink" title="书籍阅读"></a>书籍阅读</h1><ul><li>变量<br>罗振宇推荐， 从现象中看到本质；</li><li>创新算法<br>阳志平博客推荐</li></ul><hr><h1 id="好玩的事"><a href="#好玩的事" class="headerlink" title="好玩的事"></a>好玩的事</h1><ul><li></li></ul><hr><h1 id="vlog"><a href="#vlog" class="headerlink" title="vlog"></a>vlog</h1><ol><li>如何制作自己的vlog<br>风格确定； 编写脚本； 根据脚本选择镜头录制； 视频剪辑。</li><li>如何制作转场、添加字幕<br>youtube里资源还是蛮多的，购买相关插件</li><li>如何找免费音乐<br>B站资源推荐</li></ol><hr><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p><a href="https://www.datascienceweekly.org/newsletters/data-science-weekly-newsletter-issue-272" target="_blank" rel="noopener">https://www.datascienceweekly.org/newsletters/data-science-weekly-newsletter-issue-272</a></p><p><img src="https://ws1.sinaimg.cn/large/006tKfTcly1g0e568svouj30t64cs7k4.jpg" alt="xx"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="信息列表"><a href="#信息列表" class="headerlink" title="信息列表"></a>信息列表</h2><ul><li style="list-style: none"><input type="checkbox"> deanishe/awgo: Go library for Alfred 3 workflows<br><a href="https://github.com/deanishe/awgo" target="_blank" rel="noopener">https://github.com/deanishe/awgo</a> alfred go库，可提取浏览器网页标题链接等信息</li><li style="list-style: none"><input type="checkbox"> XIAOMI MI BOX S / 4K Item added to cart - Walmart.com<br><a href="http://t.cn/EiMRi6X" target="_blank" rel="noopener">http://t.cn/EiMRi6X</a><br>推荐海外购买渠道， 可能减10美刀。可以安装原生android TV， 支持netflix、HBO等美剧APP</li><li style="list-style: none"><input type="checkbox"> 在线抠图挺棒<br><a href="https://zh.clippingmagic.com/images/45911569/edit/90lte5misnk02fcmpch8ko948gqc70a3kpbvttaf7gpt7h77ruk4" target="_blank" rel="noopener">https://zh.clippingmagic.com/images/45911569/edit/90lte5misnk02fcmpch8ko948gqc70a3kpbvttaf7gpt7h77ruk4</a><br>可以集成其API做成产品，但其API是需要付费的，有调用次数限制。</li><li style="list-style: none"><input type="checkbox"> <a href="https://www.edge.org/Press/ChinaBlogweeklyMagazine.pdf" target="_blank" rel="noopener">https://www.edge.org/Press/ChinaBlogweeklyMagazine.pdf</a><br>与者包括亚马逊的杰夫·贝佐斯、谷歌的拉. 思想家之间的不断传递。这是一把足够大的. 里·佩奇、特斯拉的埃隆·马斯克等人。 伞,伞下囊括了传统文人、实干家、思想家和.</li><li style="list-style: none"><input type="checkbox"> Flow - Break and Focus Timer by Yugen<br><img src="http://cdn.hackdapp.com/2019-04-01-141848.jpg" alt=""></li><li style="list-style: none"><input type="checkbox"> kzddck.com<br><img src="http://cdn.hackdapp.com/2019-04-01-142312.jpg" alt=""></li></ul><hr><h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><p>可考虑做一个类似专题网站</p><ul><li style="list-style: none"><input type="checkbox"> kzddck.com<br>提供一些好用工具推荐，并且可以对接渠道便宜购买正版软件</li></ul>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;知识学习&quot;&gt;&lt;a href=&quot;#知识学习&quot; class=&quot;headerlink&quot; title=&quot;知识学习&quot;&gt;&lt;/a&gt;知识学习&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://joinwee.com/lesson/20/#4&quot; target=&quot;_blank
-      
+      本周最大的收获就是：如何从日常信息中尝试做一下小产品网站，自然流量转化付费。HackDApp愿与你分享！
+    
+    </summary>
+    
+      <category term="周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习周报-02W: 如何成为演讲的高手</title>
+    <link href="https://www.hackdapp.com/archives/weekly02.html"/>
+    <id>https://www.hackdapp.com/archives/weekly02.html</id>
+    <published>2019-01-12T16:00:00.000Z</published>
+    <updated>2019-04-01T22:11:59.713Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>学会用文字沉淀自己的成长</p></blockquote><h1 id="知识学习"><a href="#知识学习" class="headerlink" title="知识学习"></a>知识学习</h1><ul><li><a href="http://joinwee.com/lesson/20/#4" target="_blank" rel="noopener">TED深度学习四步法</a><br>何为组块</li><li><a href="得到">如保成为演讲的高手</a></li></ul><hr><h1 id="思维成长"><a href="#思维成长" class="headerlink" title="思维成长"></a>思维成长</h1><hr><h1 id="软件工具"><a href="#软件工具" class="headerlink" title="软件工具"></a>软件工具</h1><hr><h1 id="书籍阅读"><a href="#书籍阅读" class="headerlink" title="书籍阅读"></a>书籍阅读</h1><ul><li>变量<br>罗振宇推荐， 从现象中看到本质；</li><li>创新算法<br>阳志平博客推荐</li></ul><hr><h1 id="好玩的事"><a href="#好玩的事" class="headerlink" title="好玩的事"></a>好玩的事</h1><hr><h1 id="vlog"><a href="#vlog" class="headerlink" title="vlog"></a>vlog</h1><ol><li>如何制作自己的vlog<br>风格确定； 编写脚本； 根据脚本选择镜头录制； 视频剪辑。</li><li>如何制作转场、添加字幕<br>youtube里资源还是蛮多的，购买相关插件</li><li>如何找免费音乐<br>B站资源推荐</li></ol><hr><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p><a href="https://www.datascienceweekly.org/newsletters/data-science-weekly-newsletter-issue-272" target="_blank" rel="noopener">https://www.datascienceweekly.org/newsletters/data-science-weekly-newsletter-issue-272</a><br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1g0e568svouj30t64cs7k4.jpg" alt="xx"></p>]]></content>
+    
+    <summary type="html">
+    
+      本周最大的收获就是：学会用文字沉淀自己的成长。 变量、创新算法。 vlog制作。HackDApp愿与你分享！
     
     </summary>
     
@@ -308,36 +519,6 @@
       <category term="tron boilerplate" scheme="https://www.hackdapp.com/tags/tron-boilerplate/"/>
     
       <category term="波场开发指南" scheme="https://www.hackdapp.com/tags/%E6%B3%A2%E5%9C%BA%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2019MetaLife</title>
-    <link href="https://www.hackdapp.com/archives/2019metalife.html"/>
-    <id>https://www.hackdapp.com/archives/2019metalife.html</id>
-    <published>2019-01-07T16:28:42.000Z</published>
-    <updated>2019-01-12T08:03:17.730Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>新年愿意清单</strong></p><ul><li>尝试每天500字，锻炼文字组织能力</li><li>做一款自己的小众产品，用户达到100人</li><li>尝试录制短视频</li><li>出版一本书籍</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;新年愿意清单&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;尝试每天500字，锻炼文字组织能力&lt;/li&gt;
-&lt;li&gt;做一款自己的小众产品，用户达到100人&lt;/li&gt;
-&lt;li&gt;尝试录制短视频&lt;/li&gt;
-&lt;li&gt;出版一本书籍&lt;/li&gt;
-&lt;/ul&gt;
-
-      
-    
-    </summary>
-    
-      <category term="清单" scheme="https://www.hackdapp.com/categories/%E6%B8%85%E5%8D%95/"/>
-    
     
   </entry>
   
