@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hackdapp.com/edusmart/index.html</loc>
+    
+    <lastmod>2019-04-02T00:04:38.515Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/weekly/index.html</loc>
+    
+    <lastmod>2019-04-02T00:03:15.897Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/archives/weekly04.html</loc>
+    
+    <lastmod>2019-04-02T00:00:12.756Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hackdapp.com/archives/weekly13.html</loc>
     
     <lastmod>2019-04-01T23:53:47.400Z</lastmod>
@@ -72,13 +93,6 @@
   </url>
   
   <url>
-    <loc>https://www.hackdapp.com/archives/weekly04.html</loc>
-    
-    <lastmod>2019-04-01T22:12:06.440Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.hackdapp.com/archives/weekly03.html</loc>
     
     <lastmod>2019-04-01T22:12:02.525Z</lastmod>
@@ -100,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://www.hackdapp.com/weekly/index.html</loc>
-    
-    <lastmod>2019-03-30T23:14:41.311Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.hackdapp.com/about/index.html</loc>
     
     <lastmod>2019-03-26T07:29:37.492Z</lastmod>
@@ -124,13 +131,6 @@
     <loc>https://www.hackdapp.com/grownth/index.html</loc>
     
     <lastmod>2019-03-25T01:41:29.331Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/edusmart/index.html</loc>
-    
-    <lastmod>2019-03-18T14:56:01.193Z</lastmod>
     
   </url>
   
