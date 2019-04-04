@@ -1,50 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.hackdapp.com/archives/try_eoscontract_dev.html</loc>
-    <lastmod>2019-04-03</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly04.html</loc>
-    <lastmod>2019-04-02</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly13.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly05.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly11.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly10.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly09.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly08.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly07.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/rebuildbrain_habit.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly06.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly12.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly03.html</loc>
-    <lastmod>2019-04-01</lastmod>
+    <loc>https://www.hackdapp.com/archives/tron_boilerplate.html</loc>
+    <lastmod>2019-04-04</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/weekly02.html</loc>
-    <lastmod>2019-04-01</lastmod>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly13.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly12.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly11.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly10.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly09.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly08.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly07.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly06.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly05.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly04.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/weekly03.html</loc>
+    <lastmod>2019-04-04</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/weekly01.html</loc>
-    <lastmod>2019-04-01</lastmod>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/rebuildbrain_habit.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/think_habit.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/2019metalife.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/simple_cpllus_code.html</loc>
+    <lastmod>2019-04-04</lastmod>
+  </url>  <url>
+    <loc>https://www.hackdapp.com/archives/try_eoscontract_dev.html</loc>
+    <lastmod>2019-04-03</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_datastorage_historyaction.html</loc>
     <lastmod>2019-03-14</lastmod>
@@ -55,19 +67,10 @@
     <loc>https://www.hackdapp.com/archives/eosdev_contract_abi.html</loc>
     <lastmod>2019-03-14</lastmod>
   </url>  <url>
-    <loc>https://www.hackdapp.com/archives/tron_boilerplate.html</loc>
-    <lastmod>2019-03-14</lastmod>
-  </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_basic.html</loc>
     <lastmod>2019-02-21</lastmod>
   </url>  <url>
-    <loc>https://www.hackdapp.com/archives/think_habit.html</loc>
-    <lastmod>2019-02-14</lastmod>
-  </url>  <url>
     <loc>https://www.hackdapp.com/archives/eosdev_cplus_intro.html</loc>
     <lastmod>2019-01-28</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/2019metalife.html</loc>
-    <lastmod>2019-01-12</lastmod>
   </url>
 </urlset>
