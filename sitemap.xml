@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hackdapp.com/archives/weekly14.html</loc>
+    
+    <lastmod>2019-04-07T15:04:55.677Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/weekly/index.html</loc>
+    
+    <lastmod>2019-04-07T15:04:21.647Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hackdapp.com/archives/tron_boilerplate.html</loc>
     
     <lastmod>2019-04-04T23:38:54.923Z</lastmod>
@@ -145,13 +159,6 @@
     <loc>https://www.hackdapp.com/about/index.html</loc>
     
     <lastmod>2019-04-03T05:18:49.973Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hackdapp.com/weekly/index.html</loc>
-    
-    <lastmod>2019-04-02T00:03:15.897Z</lastmod>
     
   </url>
   
