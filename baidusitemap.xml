@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.hackdapp.com/archives/weekly13.html</loc>
+    <lastmod>2019-04-11</lastmod>
+  </url>  <url>
     <loc>https://www.hackdapp.com/archives/weekly14.html</loc>
     <lastmod>2019-04-07</lastmod>
   </url>  <url>
@@ -8,9 +11,6 @@
     <lastmod>2019-04-04</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/weekly02.html</loc>
-    <lastmod>2019-04-04</lastmod>
-  </url>  <url>
-    <loc>https://www.hackdapp.com/archives/weekly13.html</loc>
     <lastmod>2019-04-04</lastmod>
   </url>  <url>
     <loc>https://www.hackdapp.com/archives/weekly12.html</loc>
