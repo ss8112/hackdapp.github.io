@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.hackdapp.com/"/>
-  <updated>2019-04-16T03:07:08.057Z</updated>
+  <updated>2019-04-21T14:44:41.921Z</updated>
   <id>https://www.hackdapp.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习周报-16W: 解决焦虑的办法就是关注当下现实问题</title>
+    <link href="https://www.hackdapp.com/archives/weekly16.html"/>
+    <id>https://www.hackdapp.com/archives/weekly16.html</id>
+    <published>2019-04-21T15:00:00.000Z</published>
+    <updated>2019-04-21T14:44:41.921Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">不将问题化成简化的形式，无法求得解答。 -  约翰-皮尔庞特-摩根</span><br></pre></td></tr></table></figure><h2 id="👀️-见"><a href="#👀️-见" class="headerlink" title="👀️ 见"></a>👀️ 见</h2><ol><li><a href="https://weibo.com/p/1001603922841853642397?mod=zwenzhang" target="_blank" rel="noopener">我的产品设计开发工作の流 - 文章</a></li><li><a href="https://www.landinglion.com/" target="_blank" rel="noopener">Landing Lion - The web’s best way to build the web.</a><br>一个可以快速设计自己产品官网的在线制作网站，提供大量的模板供大家使用。强烈推荐。只不过要集成第三方插件或自定义域名的时候需要付费。</li><li><a href="https://docs.chatie.io/v/zh/api/wechaty" target="_blank" rel="noopener">Wechaty - Chatie</a> 、<a href="https://blog.chatie.io/" target="_blank" rel="noopener">https://blog.chatie.io/</a><br>微信机器人开发文档。可对微信群中的各种事件：加入群、退出群、群消息等事件进行监听记录</li><li><a href="https://mp.weixin.qq.com/s?__biz=MjM5MTQwNDc0MA==&amp;mid=207303185&amp;idx=1&amp;sn=36aca2fdcd6668c8f23f8da1795ae555&amp;scene=0#wechat_redirect" target="_blank" rel="noopener">如何建立读书笔记系统？</a></li><li><a href="https://www.gallaudet.edu/tutorial-and-instructional-programs/english-center/the-process-and-type-of-writing/pre-writing-writing-and-revising/the-note-card-system" target="_blank" rel="noopener">The Note Card System – Gallaudet University</a></li><li><a href="https://mythcreants.com/blog/three-excuses-to-use-office-supplies/" target="_blank" rel="noopener">Three Ways to Plot With Index Cards – Mythcreants</a></li><li><a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming" target="_blank" rel="noopener">Algorithms - GeeksforGeeks</a></li><li><a href="https://www.tutorialspoint.com/compile_java8_online.php" target="_blank" rel="noopener">Online Java8 Compiler - Online Java8 Editor - Online Java8 IDE - Java8 Coding Online - Practice Java8 Online - Execute Java8 Online - Compile Java8 Online - Run Java8 Online</a></li></ol><h2 id="🌱-感"><a href="#🌱-感" class="headerlink" title="🌱 感"></a>🌱 感</h2><ul><li>焦虑只会将自己的大脑带向脱离实际的轨道，如果想解决焦虑那只有将思维拉回现实。</li></ul><h2 id="😕️-思"><a href="#😕️-思" class="headerlink" title="😕️ 思"></a>😕️ 思</h2><ol><li>为了很好将群里面有价值的信息进行内容沉淀，而自己又不可能一直盯着微信群。所以可以通过机器人自动将群里的信息同步到数据库，当周日进行内容总结时，只需要提取当周或当天信息就可以进行信息提取与内容整理了。另外，还可以解决需要通过手机客户端滚屏及复制内容的问题。</li></ol><h2 id="👟-行"><a href="#👟-行" class="headerlink" title="👟 行"></a>👟 行</h2><ol><li>制作卡片写作产品官网 <a href="http://100card.io" target="_blank" rel="noopener">http://100card.io</a></li><li>把问题缩小到真正具体的某一件事情上。 《内在成长》</li></ol><hr><p><strong>欢迎关注HackDApp博客或公众号</strong>, HackHook将持续为你分享IndieMaker成长路径、DAPP技术知识、高效Mac使用技巧、底层思维认知。</p><p>------------------------------------------------------------------------------<br>我的博客:     <a href="https://www.hackdapp.com/">https://www.hackdapp.com/</a><br>我的github:   <a href="https://github.com/hackdapp" target="_blank" rel="noopener">https://github.com/hackdapp</a><br>我的哔哩哔哩:   <a href="https://space.bilibili.com/17360859" target="_blank" rel="noopener">https://space.bilibili.com/17360859</a><br>我的微信公众号: hackdapp<img src="http://cdn.hackdapp.com/2019-04-03-mysign.jpg" alt=""><br>IndieMakers:  <a href="https://www.indiemakers.cn" target="_blank" rel="noopener">https://www.indiemakers.cn</a><br>------------------------------------------------------------------------------</p><p>联系邮箱：<a href="mailto:55269778@qq.com" target="_blank" rel="noopener">55269778@qq.com</a></p>]]></content>
+    
+    <summary type="html">
+    
+      我们为什么要产生焦虑？因为大脑过度猜测与推断外界因素，给自己大脑造成很多或许根本就不存在的外界压力。而这一切与现实情况可能并不相符，所以我们需要将目光拉回现实问题之中，关注如何解决当下问题才是解决焦虑的出路。
+    
+    </summary>
+    
+      <category term="学习周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5-2019/"/>
+    
+    
+      <category term="内在成长" scheme="https://www.hackdapp.com/tags/%E5%86%85%E5%9C%A8%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
   
   <entry>
     <title>学习周报-15W: (生财有术)扩大你的眼界，开天眼</title>
@@ -494,28 +516,6 @@
       <category term="C++导读" scheme="https://www.hackdapp.com/tags/C-%E5%AF%BC%E8%AF%BB/"/>
     
       <category term="EOS合约开发教程" scheme="https://www.hackdapp.com/tags/EOS%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>学习周报-04W: 学会给工具减负</title>
-    <link href="https://www.hackdapp.com/archives/weekly04.html"/>
-    <id>https://www.hackdapp.com/archives/weekly04.html</id>
-    <published>2019-01-26T16:00:00.000Z</published>
-    <updated>2019-04-04T23:37:12.829Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>运营图谱2.0 之所以会火，也是取决于人们都追求知识的完整性。相对于散落的知识点，完整的知识图谱更容易让人僮有明确的概念认识。</p></blockquote><h2 id="信息列表"><a href="#信息列表" class="headerlink" title="信息列表"></a>信息列表</h2><ul><li style="list-style: none"><input type="checkbox"> 域名： dev.tupu.com</li><li style="list-style: none"><input type="checkbox"> 域名： oopscode</li><li style="list-style: none"><input type="checkbox"> 域名： dappstudio</li><li style="list-style: none"><input type="checkbox"> <a href="http://joinwee.com/lesson/20/#4" target="_blank" rel="noopener">TED深度学习四步法–WEE-Beta 用智慧创造好玩有趣的开放学习机会</a></li><li style="list-style: none"><input type="checkbox"> 使用zetro给thing3减负，将待办事项与信息切分。在转存的时候一定要编写自己的备注，否则可能无法搜索出来</li><li style="list-style: none"><input type="checkbox"> things只做待办事项存储不做知识信息存储</li></ul><h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><ul><li style="list-style: none"><input type="checkbox"> 社群工具集合网站</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      本周最大的收获就是：尝试制作流量IP（知识图谱、运营图谱）。TED深度学习四步法 HackDApp愿与你分享！
-    
-    </summary>
-    
-      <category term="学习周报(2019)" scheme="https://www.hackdapp.com/categories/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5-2019/"/>
-    
-    
-      <category term="学习周报" scheme="https://www.hackdapp.com/tags/%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
     
   </entry>
   

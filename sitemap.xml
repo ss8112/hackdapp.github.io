@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.hackdapp.com/archives/weekly15.html</loc>
+    <loc>https://www.hackdapp.com/weekly/index.html</loc>
     
-    <lastmod>2019-04-16T03:07:08.057Z</lastmod>
+    <lastmod>2019-04-21T14:45:34.199Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.hackdapp.com/weekly/index.html</loc>
+    <loc>https://www.hackdapp.com/archives/weekly16.html</loc>
     
-    <lastmod>2019-04-15T00:41:39.665Z</lastmod>
+    <lastmod>2019-04-21T14:44:41.921Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hackdapp.com/archives/weekly15.html</loc>
+    
+    <lastmod>2019-04-16T03:07:08.057Z</lastmod>
     
   </url>
   
